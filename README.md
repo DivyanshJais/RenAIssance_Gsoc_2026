@@ -1,0 +1,2 @@
+# RenAIssance_Gsoc_2026
+Handwritten Historical Document Transcription Pipeline
